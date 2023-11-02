@@ -14,7 +14,7 @@ Add test commit
 
 ## 1 Introduction
 
-Expressions change a value based on a function or combination of functions. 
+Expressions change a value based on a function or combination of functions. Add more introduction here.
 
 Named items (for example, objects, lists, or variables) can be called in an expression by inserting the name of the item and adding a dollar sign (for example,  `$customer` could refer to an object named `customer`). Expressions can also include Mendix system items which contain information about the current user session. See [System Items](#system-items), below.
 
