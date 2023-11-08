@@ -6,7 +6,7 @@ description: "Describes the functions for parsing Date and time values from stri
 tags: ["studio pro", "expressions", "parsing", "formatting"]
 ---
 
-## 1 Introduction 
+## 1 Introduction
 
 This document describes functions that are used to parse Date and time values from strings using a specified pattern, or to produce a string from a Date and time value.
 

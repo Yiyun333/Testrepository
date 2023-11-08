@@ -5,7 +5,8 @@ weight: 110
 tags: ["studio pro", "expressions", "add date function"]
 ---
 
-## 1 Introduction changes
+
+## 1 Introduction {#introduction}
 
 Add date function calls add a time period to a date and time and return the modified value. 
 
@@ -17,7 +18,7 @@ You can also subtract a time period from the specified date. For more informatio
 
 The `addMilliseconds` function adds a specified number of milliseconds to a date.
 
-### 2.1 Input Parameters
+### 2.1 Input Parameters {#add-anchor}
 
 The input parameters are described in the table below:
 
