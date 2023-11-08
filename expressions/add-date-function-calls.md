@@ -5,7 +5,6 @@ weight: 110
 tags: ["studio pro", "expressions", "add date function"]
 ---
 
-
 ## 1 Introduction {#introduction}
 
 Add date function calls add a time period to a date and time and return the modified value. 
